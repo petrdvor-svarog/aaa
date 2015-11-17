@@ -10,3 +10,4 @@
 
 
 % theme switcher, go to function themeSwitcher
+% new feature add language
