@@ -10,4 +10,7 @@
 
 
 % theme switcher, go to function themeSwitcher
+
 % new feature add language
+% adding new svarog feature, addColor()
+
