@@ -5,3 +5,5 @@
 
 
 % Minor polishment, first commit in develop branch.
+
+% language switcher, go to function languageSwitcher
