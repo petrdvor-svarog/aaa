@@ -7,3 +7,6 @@
 % Minor polishment, first commit in develop branch.
 
 % language switcher, go to function languageSwitcher
+
+
+% theme switcher, go to function themeSwitcher
